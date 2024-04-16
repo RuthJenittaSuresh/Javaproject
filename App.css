@@ -1,0 +1,95 @@
+
+  .container {
+    height: 300px;
+    width: 100%;
+    background: gray;
+    text-align: center;
+    font-style: oblique;
+    color: black;
+  }
+
+  .container h2 {
+    position: absolute;
+    top: 90px;
+    left: 45%;
+  }
+
+  .img-container {
+    position: absolute;
+    left: 40%;
+    top: 30%;
+  }
+ .img-container img{
+ height:300px;
+width:300px;
+}
+
+  .img-container p {
+    position: absolute;
+  }
+  .button1{
+    position: absolute;
+    top:99%;
+    left: 45%;
+  }
+  .button1 button{
+    padding:10px 12px;
+    background-color: rgba(0, 0, 0, 0.823);
+    color:whitesmoke;
+  }
+  .button1 button:hover{
+    background-color: rgba(0, 0, 0, 0.537);
+  }
+  .button2{
+    position: absolute;
+    top:99%;
+    left: 14%;
+  }
+  .button2 button{
+    padding:10px 12px;
+    background-color: rgba(0, 0, 0, 0.823);
+    color:whitesmoke;
+  }
+  .button2 button:hover{
+    background-color: rgba(0, 0, 0, 0.537);
+  }
+  .button3{
+    position: absolute;
+    top:99%;
+    left: 74%;
+  }
+  .button3 button{
+    padding:10px 12px;
+    background-color: rgba(0, 0, 0, 0.823);
+    color:whitesmoke;
+  }
+  .button3 button:hover{
+    background-color: rgba(0, 0, 0, 0.537);
+  }
+
+  .img-left-container {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+  }
+  .img-left-container p{
+    position: absolute;
+  }
+ .img-left-container img{
+height:300px;
+width:300px;
+}
+
+  .img-right-container {
+    position: absolute;
+    left: 70%;
+    top: 30%;
+  }
+  .img-right-container p{
+    position: absolute;
+  }
+  .footer{
+    position: absolute;
+    top: 105%;
+    width: 100%;
+  }
